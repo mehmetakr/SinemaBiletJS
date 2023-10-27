@@ -1,9 +1,9 @@
 <h1> Sinema Bilet Projesi JS </h1>
 
 <p>
-  * Javascript kodları main dosyasında yer almaktadır. 
-  * Resimlerimiz images dosyasında bulunmaktadır.
-  * Htm kodlarımız index.html dosyasında yer almaktadır.
+  * Javascript kodları main dosyasında yer almaktadır. <br>
+  * Resimlerimiz images dosyasında bulunmaktadır.<br>
+  * Htm kodlarımız index.html dosyasında yer almaktadır.<br>
   
 <br>
 </p>
